@@ -22,5 +22,5 @@
     "autoupdate": {
         "url": "https://github.com/LorenzCK/OnTopReplica/releases/download/v$version/OnTopReplica-v$version.zip"
     },
-    "##": "Data saved in %LOCALAPPDATA%."
+    "##": "Data is stored in %LOCALAPPDATA%."
 }

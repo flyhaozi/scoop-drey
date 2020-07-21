@@ -15,5 +15,5 @@
     "autoupdate": {
         "url": "https://github.com/miltoncandelero/Boop/releases/download/$version/Boop.exe"
     },
-    "##": "Data saved in %LOCALAPPDATA%."
+    "##": "Data is stored in %LOCALAPPDATA%."
 }

@@ -17,4 +17,6 @@ scoop install drey/<app name>
 
 [OnTopReplica](https://github.com/LorenzCK/OnTopReplica): A real-time always-on-top “replica” of a window of your choice (on Windows). [⇥](./bucket/ontopreplica.json)
 
+[Snickerstream](https://github.com/RattletraPM/Snickerstream): Unified NTR and HzMod streaming client for the 3DS. [⇥](./bucket/snickerstream.json)
+
 [Snip](https://github.com/dlrudie/Snip): Snip will get the artist, track, and album information from Spotify and iTunes, and save the information to a text file. [⇥](./bucket/snip.json)
