@@ -1,5 +1,5 @@
 {
-    "version": "v3.5.1-fix",
+    "version": "3.5.1-fix",
     "description": "A real-time always-on-top “replica” of a window of your choice (on Windows).",
     "homepage": "https://github.com/LorenzCK/OnTopReplica",
     "url": "https://github.com/LorenzCK/OnTopReplica/releases/download/v3.5.1-fix/OnTopReplica-v3.5.1-fix.zip",
@@ -20,6 +20,6 @@
     ],
     "checkver": "github",
     "autoupdate": {
-        "url": "https://github.com/LorenzCK/OnTopReplica/releases/download/$version/OnTopReplica-$version.zip"
+        "url": "https://github.com/LorenzCK/OnTopReplica/releases/download/v$version/OnTopReplica-v$version.zip"
     }
 }
