@@ -36,7 +36,7 @@
             ]
         }
     },
-    "pre_install": "if (!(Test-Path \"$persist_dir\\settings.ini\")) { Set-Content \"$dir\\settings.ini\" '[Snickerstream]', 'PCIpAddr=0.0.0.0' -Encoding UTF8 }",
+    "pre_install": "if (!(Test-Path \"$persist_dir\\settings.ini\")) { Set-Content \"$dir\\settings.ini\" '[Snickerstream]', 'PCIpAddr=0.0.0.0' -Encoding Ascii }",
     "persist": "settings.ini",
     "checkver": "github",
     "autoupdate": {
