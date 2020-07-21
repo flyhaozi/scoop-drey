@@ -15,5 +15,6 @@
     "checkver": "github",
     "autoupdate": {
         "url": "https://github.com/dlrudie/Snip/releases/download/v$version/Snip-v$version.zip"
-    }
+    },
+    "##": "Data saved in registry."
 }
