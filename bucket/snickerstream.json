@@ -2,7 +2,7 @@
     "homepage": "https://github.com/RattletraPM/Snickerstream",
     "description": "Unified NTR and HzMod streaming client for the 3DS.",
     "version": "1.10",
-    "license": "GPL-3.0-or-later",
+    "license": "GPL-3.0-only",
     "architecture": {
         "64bit": {
             "url": "https://github.com/RattletraPM/Snickerstream/releases/download/v1.10/Snickerstream_v1.10_x64.zip",
