@@ -15,6 +15,8 @@ scoop install drey/<app name>
 ## App List
 [Boop](https://github.com/miltoncandelero/Boop): GUI for network install for switch and 3ds. [⇥](./bucket/boop.json)
 
+[dijo](https://github.com/NerdyPepper/dijo): scriptable, curses-based, digital habit tracker. [⇥](./bucket/dijo.json)
+
 [FreePiano](https://sourceforge.net/projects/freepiano): FreePiano is a virtual MIDI keyboard and a VST host for windows. [⇥](./bucket/freepiano.json)
 
 [OnTopReplica](https://github.com/LorenzCK/OnTopReplica): A real-time always-on-top “replica” of a window of your choice (on Windows). [⇥](./bucket/ontopreplica.json)
